@@ -2,7 +2,7 @@
 
 A simple and interactive stopwatch built using HTML, CSS, and JavaScript.
 
-🔗 Live Demo: https://t-syam-kumar.github.io/stop_watch/
+🔗 Live Demo: https://t-syam-kumar.github.io/Stop_watch/
 
 🚀 Features
 
