@@ -30,3 +30,4 @@ git clone https://github.com/T-Syam-Kumar/stop_watch.git
 cd stop_watch
 
 # Open the index.html file in your browser
+and there the clock is working
