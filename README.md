@@ -8,7 +8,7 @@ A simple and interactive stopwatch built using HTML, CSS, and JavaScript.
 
 ✅ Start, Stop, and Reset functionality
  
-⏳ Accurate real-time stopwatch behavior
+⏳ Accurate real-time stopwatch behavior 
 
 📱 Responsive design for mobile and desktop
 
