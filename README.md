@@ -11,7 +11,7 @@ A simple and interactive stopwatch built using HTML, CSS, and JavaScript.
 ⏳ Accurate real-time stopwatch behavior 
 
 📱 Responsive design for mobile and desktop
-
+ 
 🎯 Lightweight and easy to use
 
 🛠️ Tech Stack
